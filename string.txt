@@ -1,0 +1,13 @@
+exo 1 
+print "Hello " + "allialy"
+
+exo2 
+
+print("comment allez vous")
+print("je vais bien")
+
+exo3
+
+haiku = """The old pond,
+A frog jumps in:
+Plop!"""
